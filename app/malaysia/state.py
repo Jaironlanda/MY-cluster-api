@@ -1,0 +1,20 @@
+def states_list():
+    return {
+        "Johor": 1,
+        "Kedah": 2,
+        "Kelantan": 3,
+        "Melaka": 4,
+        "Negeri Sembilan": 5,
+        "Pahang": 6,
+        "Pulau Pinang": 7,
+        "Perak": 8,
+        "Perlis": 9,
+        "Selangor": 10,
+        "Terengganu": 11,
+        "Sabah": 12,
+        "Sarawak": 13,
+        "Wilayah Persekutuan (KL)": 14,
+        "Wilayah Persekutuan (Labuan)": 15,
+        "Wilayah Persekutuan (Putrajaya)": 16,
+        "N/A": 0,
+    }
