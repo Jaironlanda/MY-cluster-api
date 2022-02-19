@@ -13,8 +13,8 @@ def states_list():
         "Terengganu": 11,
         "Sabah": 12,
         "Sarawak": 13,
-        "Wilayah Persekutuan (KL)": 14,
-        "Wilayah Persekutuan (Labuan)": 15,
-        "Wilayah Persekutuan (Putrajaya)": 16,
+        "KL": 14,
+        "Labuan": 15,
+        "Putrajaya": 16,
         "N/A": 0,
     }
